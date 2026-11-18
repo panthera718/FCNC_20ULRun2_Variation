@@ -1,0 +1,2 @@
+root://cms-xrdr.sdfarm.kr:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL17NanoAODv9/reco/NANOAOD/TTWZ_TuneCP5_13TeV-madgraph-pythia8.RunIISummer20UL17NanoAODv9-106X_mc2017_realistic_v9-v1.NANOAODSIM/0910D295-FD60-E943-97A6-D2BBB2CFCE19_Skim.root
+root://cms-xrdr.sdfarm.kr:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL17NanoAODv9/reco/NANOAOD/TTWZ_TuneCP5_13TeV-madgraph-pythia8.RunIISummer20UL17NanoAODv9-106X_mc2017_realistic_v9-v1.NANOAODSIM/9DF64737-1675-7543-97F8-493CAFDDA2F0_Skim.root
