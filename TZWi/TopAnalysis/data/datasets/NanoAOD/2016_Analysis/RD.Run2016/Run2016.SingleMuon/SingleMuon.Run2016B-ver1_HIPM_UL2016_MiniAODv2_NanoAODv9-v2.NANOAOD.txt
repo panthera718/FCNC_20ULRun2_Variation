@@ -1,0 +1,2 @@
+root://cms-xrdr.sdfarm.kr:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL16NanoAODAPVv9/reco/NANOAOD/SingleMuon.Run2016B-ver1_HIPM_UL2016_MiniAODv2_NanoAODv9-v2.NANOAOD/136B48F7-CA92-704E-A81A-BD0F4D9C75F4_Skim.root
+root://cms-xrdr.sdfarm.kr:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL16NanoAODAPVv9/reco/NANOAOD/SingleMuon.Run2016B-ver1_HIPM_UL2016_MiniAODv2_NanoAODv9-v2.NANOAOD/BB6DC570-2223-7B43-BB87-2526FB1639B4_Skim.root
