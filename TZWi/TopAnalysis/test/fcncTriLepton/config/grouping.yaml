@@ -1,0 +1,335 @@
+processes:
+    DataElElEl:
+        title: "Data"
+        modes: ["ElElEl"]
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataMuMuMu:
+        title: "Data"
+        modes: ["MuMuMu"]
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataTaTaTa:
+        title: "Data"
+        modes: ["TaTaTa"]
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataElMuMu:
+        title: "Data"
+        modes: ["ElMuMu"]
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataElTaTa:
+        title: "Data"
+        modes: ["ElTaTa"]
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataMuElEl:
+        title: "Data"
+        modes: ["MuElEl"]
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataMuTaTa:
+        title: "Data"
+        modes: ["MuTaTa"]
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataTaElEl:
+        title: "Data"
+        modes: ["TaElEl"]
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataTaMuMu:
+        title: "Data"
+        modes: ["TaMuMu"]
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+
+    DataNPLElElEl:
+        title: "Data"
+        modes: ["NPLElElEl"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataNPLMuMuMu:
+        title: "Data"
+        modes: ["NPLMuMuMu"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataNPLTaTaTa:
+        title: "Data"
+        modes: ["NPLTaTaTa"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataNPLElMuMu:
+        title: "Data"
+        modes: ["NPLElMuMu"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataNPLElTaTa:
+        title: "Data"
+        modes: ["NPLElTaTa"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataNPLMuElEl:
+        title: "Data"
+        modes: ["NPLMuElEl"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataNPLMuTaTa:
+        title: "Data"
+        modes: ["NPLMuTaTa"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataNPLTaElEl:
+        title: "Data"
+        modes: ["NPLTaElEl"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+    DataNPLTaMuMu:
+        title: "Data"
+        modes: ["NPLTaMuMu"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2017.DoubleEG
+            - Run2017.SingleElectron
+            - Run2017.DoubleMuon
+            - Run2017.SingleMuon
+            - Run2017.MuonEG
+            - Run2017.Tau
+
+    ttZ:
+        title: "ttZ"
+        longTitle: "t#bar{t}Z"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.TTZToLLNuNu
+            - MC2017.TTZToLL_M-1to10
+    tZq:
+        title: "tZq"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.tZq_ll
+    WZ:
+        title: "WZ"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.WZTo3LNu
+    ZZ:
+        title: "ZZ"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.ZZ_TuneCP5
+    VV:
+        title: "VV"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.WW_TuneCP5
+            - MC2017.GluGluToContinToZZTo2e2mu
+            - MC2017.GluGluToContinToZZTo2e2tau
+            - MC2017.GluGluToContinToZZTo2mu2tau
+            - MC2017.GluGluToContinToZZTo4e
+            - MC2017.GluGluToContinToZZTo4mu
+            - MC2017.GluGluToContinToZZTo4tau
+    VVV:
+        title: "VVV"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.WWW_4F_TuneCP5
+            - MC2017.WWZ_4F_TuneCP5
+            - MC2017.WZZ_TuneCP5
+            - MC2017.ZZZ_TuneCP5
+    ttX:
+        title: "ttX"
+        longTitle: "t#bar{t}X"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.TTWJetsToLNu
+            - MC2017.TTWW
+            - MC2017.TTWZ
+            - MC2017.TTZZ
+            - MC2017.TTGamma_Dilept
+            - MC2017.ttHToNonbb
+    XGamma:
+        title: "XGamma"
+        longTitle: "X#gamma^{*}"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.ZGToLLG_01J
+            - MC2017.WGToLNuG_01J
+    tWZ:
+        title: "tWZ"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.TWZToLL_thad_Wlept
+            - MC2017.TWZToLL_tlept_Whad
+            - MC2017.TWZToLL_tlept_Wlept
+    TT:
+        title: "TT"
+        longTitle: "t#bar{t}"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.TTTo2L2Nu
+            - MC2017.TTToHadronic
+            - MC2017.TTToSemiLeptonic
+
+    STZct:
+        title: "STZct"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.ST_FCNC-TLL_zct
+    STZut:
+        title: "STZut"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.ST_FCNC-TLL_zut
+    TTZct:
+        title: "TTZct"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.TT_FCNC-T2ZJ_zct
+            - MC2017.TT_FCNC-aT2ZJ_zct
+    TTZut:
+        title: "TTZut"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*FakeElectron_RecoSF*FakeElectron_SF*FakeMuon_SF*BtagWeight*FakeRateWeight*L1PreFiringWeight_Nom"
+        cut: "HLT"
+        datasets:
+            - MC2017.TT_FCNC-T2ZJ_zut
+            - MC2017.TT_FCNC-aT2ZJ_zut
