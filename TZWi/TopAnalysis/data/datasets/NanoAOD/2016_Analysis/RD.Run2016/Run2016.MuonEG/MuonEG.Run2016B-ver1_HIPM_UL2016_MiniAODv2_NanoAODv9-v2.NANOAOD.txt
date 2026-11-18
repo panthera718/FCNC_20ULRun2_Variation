@@ -1,0 +1,1 @@
+root://cms-xrdr.sdfarm.kr:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL16NanoAODAPVv9/reco/NANOAOD/MuonEG.Run2016B-ver1_HIPM_UL2016_MiniAODv2_NanoAODv9-v2.NANOAOD/35F15B35-E216-124E-AF91-281004953E9E_Skim.root
