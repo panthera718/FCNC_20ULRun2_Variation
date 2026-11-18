@@ -1,0 +1,5 @@
+root://cms-xrdr.sdfarm.kr:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL16NanoAODv9/reco/NANOAOD/DoubleEG.Run2016F-UL2016_MiniAODv2_NanoAODv9-v1.NANOAOD/9D2652ED-8719-7B47-9BA8-38B1F05E37EC_Skim.root
+root://cms-xrdr.sdfarm.kr:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL16NanoAODv9/reco/NANOAOD/DoubleEG.Run2016F-UL2016_MiniAODv2_NanoAODv9-v1.NANOAOD/AE4FFD34-A5C3-1242-B571-0AF63114F8FF_Skim.root
+root://cms-xrdr.sdfarm.kr:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL16NanoAODv9/reco/NANOAOD/DoubleEG.Run2016F-UL2016_MiniAODv2_NanoAODv9-v1.NANOAOD/C99CDB54-128D-6944-9FD2-DF9DFAF5C9E0_Skim.root
+root://cms-xrdr.sdfarm.kr:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL16NanoAODv9/reco/NANOAOD/DoubleEG.Run2016F-UL2016_MiniAODv2_NanoAODv9-v1.NANOAOD/CB3C8BA9-F3A2-8849-B8E4-BA01887C310F_Skim.root
+root://cms-xrdr.sdfarm.kr:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL16NanoAODv9/reco/NANOAOD/DoubleEG.Run2016F-UL2016_MiniAODv2_NanoAODv9-v1.NANOAOD/DFA1C823-C1B0-1447-A17B-4DC921C92F1C_Skim.root
