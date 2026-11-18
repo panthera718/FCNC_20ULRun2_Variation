@@ -1,0 +1,19 @@
+dataset:
+    MC2018.ST_FCNC-TLL_zct:
+        /ST_FCNC-TLL_Tleptonic_kappa_zct_TuneCP5-madgraph-pythia8/RunIISummer20UL18NanoAODv9-tauDecays_106X_upgrade2018_realistic_v16_L1v1-v2/NANOAODSIM:
+        - root://cms-xrdr.private.lo:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL18NanoAODv9/reco/NANOAOD/ST_FCNC-TLL_Tleptonic_kappa_zct_TuneCP5-madgraph-pythia8.RunIISummer20UL18NanoAODv9-tauDecays_106X_upgrade2018_realistic_v16_L1v1-v2.NANOAODSIM
+    MC2018.ST_FCNC-TLL_zut:
+        /ST_FCNC-TLL_Tleptonic_kappa_zut_TuneCP5-madgraph-pythia8/RunIISummer20UL18NanoAODv9-tauDecays_106X_upgrade2018_realistic_v16_L1v1-v2/NANOAODSIM:
+        - root://cms-xrdr.private.lo:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL18NanoAODv9/reco/NANOAOD/ST_FCNC-TLL_Tleptonic_kappa_zut_TuneCP5-madgraph-pythia8.RunIISummer20UL18NanoAODv9-tauDecays_106X_upgrade2018_realistic_v16_L1v1-v2.NANOAODSIM
+    MC2018.TT_FCNC-T2ZJ_zct:
+        /TT_FCNC-T2ZJ_aTleptonic_ZToll_kappa_zct_TuneCP5-madgraphMLM-pythia8/RunIISummer20UL18NanoAODv9-106X_upgrade2018_realistic_v16_L1v1-v2/NANOAODSIM:
+        - root://cms-xrdr.private.lo:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL18NanoAODv9/reco/NANOAOD/TT_FCNC-T2ZJ_aTleptonic_ZToll_kappa_zct_TuneCP5-madgraphMLM-pythia8.RunIISummer20UL18NanoAODv9-106X_upgrade2018_realistic_v16_L1v1-v2.NANOAODSIM
+    MC2018.TT_FCNC-aT2ZJ_zct:
+        /TT_FCNC-aT2ZJ_Tleptonic_ZToll_kappa_zct_TuneCP5-madgraphMLM-pythia8/RunIISummer20UL18NanoAODv9-106X_upgrade2018_realistic_v16_L1v1-v2/NANOAODSIM:
+        - root://cms-xrdr.private.lo:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL18NanoAODv9/reco/NANOAOD/TT_FCNC-aT2ZJ_Tleptonic_ZToll_kappa_zct_TuneCP5-madgraphMLM-pythia8.RunIISummer20UL18NanoAODv9-106X_upgrade2018_realistic_v16_L1v1-v2.NANOAODSIM
+    MC2018.TT_FCNC-T2ZJ_zut:
+        /TT_FCNC-T2ZJ_aTleptonic_ZToll_kappa_zut_TuneCP5-madgraphMLM-pythia8/RunIISummer20UL18NanoAODv9-106X_upgrade2018_realistic_v16_L1v1-v2/NANOAODSIM:
+        - root://cms-xrdr.private.lo:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL18NanoAODv9/reco/NANOAOD/TT_FCNC-T2ZJ_aTleptonic_ZToll_kappa_zut_TuneCP5-madgraphMLM-pythia8.RunIISummer20UL18NanoAODv9-106X_upgrade2018_realistic_v16_L1v1-v2.NANOAODSIM
+    MC2018.TT_FCNC-aT2ZJ_zut:
+        /TT_FCNC-aT2ZJ_Tleptonic_ZToll_kappa_zut_TuneCP5-madgraphMLM-pythia8/RunIISummer20UL18NanoAODv9-106X_upgrade2018_realistic_v16_L1v1-v2/NANOAODSIM:
+        - root://cms-xrdr.private.lo:2094//xrd//store/user/yhoonlee/20ULRun2NanoAODv9_2026Apr_-xvf/RunIISummer20UL18NanoAODv9/reco/NANOAOD/TT_FCNC-aT2ZJ_Tleptonic_ZToll_kappa_zut_TuneCP5-madgraphMLM-pythia8.RunIISummer20UL18NanoAODv9-106X_upgrade2018_realistic_v16_L1v1-v2.NANOAODSIM
