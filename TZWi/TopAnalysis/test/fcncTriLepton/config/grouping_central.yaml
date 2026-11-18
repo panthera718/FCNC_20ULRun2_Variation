@@ -1,0 +1,317 @@
+processes:
+    DataElElEl:
+        title: "Data"
+        modes: ["ElElEl"]
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataMuMuMu:
+        title: "Data"
+        modes: ["MuMuMu"]
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataTaTaTa:
+        title: "Data"
+        modes: ["TaTaTa"]
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataElMuMu:
+        title: "Data"
+        modes: ["ElMuMu"]
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataElTaTa:
+        title: "Data"
+        modes: ["ElTaTa"]
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataMuElEl:
+        title: "Data"
+        modes: ["MuElEl"]
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataMuTaTa:
+        title: "Data"
+        modes: ["MuTaTa"]
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataTaElEl:
+        title: "Data"
+        modes: ["TaElEl"]
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataTaMuMu:
+        title: "Data"
+        modes: ["TaMuMu"]
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+
+    DataNPLElElEl:
+        title: "Data"
+        modes: ["NPLElElEl"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataNPLMuMuMu:
+        title: "Data"
+        modes: ["NPLMuMuMu"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataNPLTaTaTa:
+        title: "Data"
+        modes: ["NPLTaTaTa"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataNPLElMuMu:
+        title: "Data"
+        modes: ["NPLElMuMu"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataNPLElTaTa:
+        title: "Data"
+        modes: ["NPLElTaTa"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataNPLMuElEl:
+        title: "Data"
+        modes: ["NPLMuElEl"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataNPLMuTaTa:
+        title: "Data"
+        modes: ["NPLMuTaTa"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataNPLTaElEl:
+        title: "Data"
+        modes: ["NPLTaElEl"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+    DataNPLTaMuMu:
+        title: "Data"
+        modes: ["NPLTaMuMu"]
+        FRweight: "FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - Run2018.EGamma
+            - Run2018.DoubleMuon
+            - Run2018.SingleMuon
+            - Run2018.MuonEG
+            - Run2018.Tau
+
+    ttZ:
+        title: "ttZ"
+        longTitle: "t#bar{t}Z"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.TTZToLLNuNu
+            - MC2018.TTZToLL_M-1to10
+    tZq:
+        title: "tZq"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.tZq_ll
+    WZ:
+        title: "WZ"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.WZTo3LNu
+    ZZ:
+        title: "ZZ"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.ZZ_TuneCP5
+    VV:
+        title: "VV"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.WW_TuneCP5
+            - MC2018.GluGluToContinToZZTo2e2mu
+            - MC2018.GluGluToContinToZZTo2e2tau
+            - MC2018.GluGluToContinToZZTo2mu2tau
+            - MC2018.GluGluToContinToZZTo4e
+            - MC2018.GluGluToContinToZZTo4mu
+            - MC2018.GluGluToContinToZZTo4tau
+    VVV:
+        title: "VVV"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.WWW_4F_TuneCP5
+            - MC2018.WWZ_4F_TuneCP5
+            - MC2018.WZZ_TuneCP5
+            - MC2018.ZZZ_TuneCP5
+    ttX:
+        title: "ttX"
+        longTitle: "t#bar{t}X"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.TTWJetsToLNu
+            - MC2018.TTWW
+            - MC2018.TTWZ
+            - MC2018.TTZZ
+            - MC2018.TTGamma_Dilept
+            - MC2018.ttHToNonbb
+    XGamma:
+        title: "XGamma"
+        longTitle: "X#gamma^{*}"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.ZGToLLG_01J
+            - MC2018.WGToLNuG_01J
+    tWZ:
+        title: "tWZ"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.TWZToLL_thad_Wlept
+            - MC2018.TWZToLL_tlept_Whad
+            - MC2018.TWZToLL_tlept_Wlept
+    TT:
+        title: "TT"
+        longTitle: "t#bar{t}"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.TTTo2L2Nu
+            - MC2018.TTToHadronic
+            - MC2018.TTToSemiLeptonic
+
+    STZct:
+        title: "STZct"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.ST_FCNC-TLL_zct
+    STZut:
+        title: "STZut"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.ST_FCNC-TLL_zut
+    TTZct:
+        title: "TTZct"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.TT_FCNC-T2ZJ_zct
+            - MC2018.TT_FCNC-aT2ZJ_zct
+    TTZut:
+        title: "TTZut"
+        weight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom"
+        FRweight: "(abs(genWeight)/genWeight)*puWeight*JetPUID_SF*Electron_RecoSF*Electron_SF*Muon_SF*TauTriggerWeight*TauIDSF*BtagWeight*L1PreFiringWeight_Nom*FakeRateWeight"
+        cut: "HLT"
+        datasets:
+            - MC2018.TT_FCNC-T2ZJ_zut
+            - MC2018.TT_FCNC-aT2ZJ_zut
